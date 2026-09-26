@@ -1,0 +1,20 @@
+{
+  "name": "user-management",
+  "version": "1.0.0",
+  "description": "User Management Page",
+  "homepage": "https://github.com/anshuman1608/demo#readme",
+  "bugs": {
+    "url": "https://github.com/anshuman1608/demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshuman1608/demo.git"
+  },
+  "license": "MIT",
+  "author": "Anshuman Singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
